@@ -46,3 +46,6 @@ At our company, which specializes in student loan refinancing, predicting borrow
 Ensure that your Jupyter Notebook includes detailed sections for each part of the project, demonstrating all steps from data preparation to predictions and discussions on the recommendation system.
 
 **Push all changes and updates regularly to your GitHub repository to track version history and collaborate effectively.**
+
+## Support
+Utilized Xpert Learning Assistant, office hours, class Slack channel, and previous jupyter notebook classwork for help.
